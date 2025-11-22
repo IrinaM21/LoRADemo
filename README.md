@@ -1,5 +1,5 @@
 Small demo of LoRA fine-tuning with Hugging Face for sequence classification. Results, checkpoints, data included. Detailed explanation of implementation in notebook. 
-
+```
 LoRADemo/
 ├── distilbert_amazon_adapters/
 │   ├── adapter_config.json
@@ -16,6 +16,7 @@ LoRADemo/
 ├── lora_results/ (after download at link below)
 │   └── (checkpoints)
 └── README.md
+```
 
 Adapter checkpoints: https://drive.google.com/drive/folders/1yp16uP8ScR4SSF2v2h1ncGAjZ1YrG1AY?usp=share_link
 
